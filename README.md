@@ -1,0 +1,2 @@
+# Python-microsoft-learn
+ Exercises 
